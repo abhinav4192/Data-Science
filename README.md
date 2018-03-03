@@ -1,4 +1,5 @@
 ## Data Science Project - CS 839  
 **Abhinav Garg, Bidyut Hota, Chirayu Garg**
 
-#### Project Stage 1 - Information extraction from natural text.
+### Project Stages
+#### [Stage 1](stage1/README.md)
