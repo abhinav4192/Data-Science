@@ -3,6 +3,7 @@
 
 ### Project Stages
 #### [Stage 1](stage1/README.md)
+#### [Stage 2](stage2/README.md)
 
 
 
