@@ -12,6 +12,10 @@ Both the tables have following 7 attributes:
 7) Rating       - Average user rating on a scale of 10
 8) CleanRDate   - Corrected release date attribute, filled upto approximation for month and date
 
+Labeled.csv - File containing 400 tuples sampled for labeling.
+setI.csv - Development set for training classifier
+setJ.csv - Evaluation set for classifier
+
 Other Information:
 1) Developer, Publisher, Platform, and Genre attributes can have multiple values for a single game. In case of multiple values, values are delimited by a vertical bar(|) .
 2) In Gamspot.csv, first few tuples have Title attribute which looks like ".hack//G.U. vol. 1//Rebirth" . Please note that this is the actual title of a game, and is not a bug in data extraction.
