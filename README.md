@@ -5,6 +5,7 @@
 #### [Stage 1](stage1/README.md)
 #### [Stage 2](stage2/README.md)
 #### [Stage 3](stage3/README.md)
+#### [Stage 4](stage4/README.md)
 
 
 
